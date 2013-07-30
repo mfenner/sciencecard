@@ -30,7 +30,7 @@ GIT
 GIT
   remote: https://github.com/mfenner/sciencecard-cookbook.git
   ref: master
-  sha: 0a4f3126759c85b347f011709155d64635bb86e6
+  sha: 7fbba29c978abfd696e54783b116e3400592a9e9
   specs:
     sciencecard (1.0.0)
       apt (>= 0.0.0)

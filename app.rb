@@ -22,5 +22,5 @@ configure do
 end
 
 get '/' do
-  markdown :README
+  markdown :index
 end
